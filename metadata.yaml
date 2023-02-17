@@ -1,0 +1,35 @@
+_repo: The-new-northland_69925
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Operti, Albert
+    alias: Operti, Albert Jaspar Ludwig
+    birthdate: 1852
+    deathdate: 1927
+    gutenberg_agent_id: '54963'
+    url: http://www.gutenberg.org/2009/agents/54963
+creator:
+  author:
+    agent_name: Gratacap, Louis Pope
+    gutenberg_agent_id: '55494'
+    url: http://www.gutenberg.org/2009/agents/55494
+description: ''
+gutenberg_issued: '2023-02-01'
+identifiers:
+  gutenberg: '69925'
+language: en
+pgterms:marc904: https://archive.org/details/newnorthland00grat
+pgterms:marc905: 20200831093634gratacap
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: Peter Becker, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThomas Benton, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The new northland
+url: http://www.gutenberg.org/ebooks/69925
