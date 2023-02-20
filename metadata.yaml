@@ -8,12 +8,17 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '54963'
     url: http://www.gutenberg.org/2009/agents/54963
+covers:
+- cover_type: archival
+  image_path: 69925-h/images/cover.jpg
 creator:
   author:
     agent_name: Gratacap, Louis Pope
     gutenberg_agent_id: '55494'
     url: http://www.gutenberg.org/2009/agents/55494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69925#The-new-northland
 gutenberg_issued: '2023-02-01'
 identifiers:
   gutenberg: '69925'
